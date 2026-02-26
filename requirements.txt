@@ -1,0 +1,5 @@
+streamlit
+openai-whisper
+transformers
+torch
+fpdf
